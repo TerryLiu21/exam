@@ -11,6 +11,18 @@
 05、33333333333333
 
 
+06、edit at div branch
 ~~~~~~~~~~~~~~~~~~
+<<<<<<< .mine
 
+=======
+
+>>>>>>> .theirs
+==================
 07、update at matster
+<<<<<<< .mine
+
+=======
+
+>>>>>>> .theirs
+07、update at dev branch
